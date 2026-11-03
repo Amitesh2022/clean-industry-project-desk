@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Investment guidance</span><h2>Every decarbonisation project needs traceable investment, energy and delivery evidence</h2><p>Industry teams, public authorities and investors can coordinate technology scope, funding readiness, emissions impact and accountable owners.</p></section></template>
